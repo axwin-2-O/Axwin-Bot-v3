@@ -7,14 +7,14 @@
 <div align="center">
   <img border-radius: 15px src="https://i.imgur.com/sJCpf2j.jpeg" width="300" height="300"/>
   <p align="center">
-<a href="#"><img title="Rudhra" src="https://img.shields.io/badge/Rudhra-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="AXWIN" src="https://img.shields.io/badge/AXWIN-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
 <a href="https://github.com/prince-rudh"><img title="Author" src="https://img.shields.io/badge/Author-prince-rudh/Rudhra?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/prince-rudh">Prince-Rudh</a> to make it public
+Project created by <a href="https://github.com/prince-rudh">AXWIN RAM</a> to make it public
     <br>
        | © |
         Reserved |
@@ -26,7 +26,7 @@ Project created by <a href="https://github.com/prince-rudh">Prince-Rudh</a> to m
 
   ### Simple Method
   
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@PrinceRudh/Rudhra-QR)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@AXWIN/BOT-QR)
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/prince-rudh/Rudhra2.0)
      </div>
